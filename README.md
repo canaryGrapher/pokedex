@@ -1,6 +1,6 @@
 # Pokédex
 ###### The unofficial Pokédex app created using ReactJS
-![pokedex logo](https://github.com/var-greyShader/pokedex/blob/master/src/images/pokedex.png)
+![pokedex logo](https://github.com/canaryGrapher/pokedex/blob/master/src/images/pokedex.png?raw=true)
 
 
 ## Tech

@@ -13,7 +13,7 @@ React is an open-source JavaScript library for building user interfaces. React c
 
 ## Website
 This repo is hosted on https://canarygrapher.github.io/pokedex
-![Preview of the website](https://github.com/canaryGrapher/pokedex/blob/master/public/socialPreview.png?raw=true)
+![Preview of the website](https://github.com/canaryGrapher/pokedex/blob/master/public/socialPreview.png?raw=true) 
 
 ## Contribution
 The information in the [data](https://github.com/var-greyShader/pokedex/tree/master/src/data) folder is incomplete. The information was scraped from [pokedex.org](https://pokedex.org/) which has information of 649 Pokémons and I used a publicly available dataset from [Kaggle](https://www.kaggle.com/) which has 807 Pokémons, so every information of POkémons after #649 is repeated. You can contribute by updating those details.

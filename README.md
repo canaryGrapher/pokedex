@@ -14,9 +14,18 @@ React is an open-source JavaScript library for building user interfaces. React c
 ## Contribution
 The information in the [data](https://github.com/var-greyShader/pokedex/tree/master/src/data) folder is incomplete. The information was scraped from [pokedex.org](https://pokedex.org/) which has information of 649 Pokémons and I used a publicly available dataset from [Kaggle](https://www.kaggle.com/) which has 807 Pokémons, so every information of POkémons after #649 is repeated. You can contribute by updating those details.
 
-## Copyright
+## Website
+This repo is hosted on https://canarygrapher.github.io/pokedex
+!(Preview of the website)[]
+
+## Disclaimer
 Please note that every sort of data used in the repository are copyrighted by **The Pokémon Company**, and I do not claim ownership of this data. This repository is just a compilation of data collected by the editors of [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page).
 
 ## License
-MIT license
-© 2020 var-greyShader
+Copyright 2020 [@canaryGrapher](https://github.com/canaryGrapher)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

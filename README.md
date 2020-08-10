@@ -7,7 +7,7 @@
 These are the frameworks and libraries used to create the app.
 <br />
    React.js   |   Bootstrap 4  
---- | ---
+:---: | :---:
 ![reactJS logo](https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png) | ![bootstrap logo](https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png) 
 React is an open-source JavaScript library for building user interfaces. React can be used as a base in the development of single-page or mobile applications. | Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. 
 

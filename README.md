@@ -1,7 +1,7 @@
 # Pokédex
-###### The unofficial Pokédex app created using ReactJS
+###### An unofficial Pokédex dashboard webapp created using ReactJS displaying information of over 600 different Pokémon.
+![Logo Designs (5)](https://user-images.githubusercontent.com/27415791/155765410-fc7ddf59-d452-4d36-89da-d04e9a01690f.jpg)
 ![pokedex logo](https://github.com/canaryGrapher/pokedex/blob/master/src/images/pokedex.png?raw=true)
-
 
 ## Tech
 These are the frameworks and libraries used to create the app.
